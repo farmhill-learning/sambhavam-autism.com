@@ -1,0 +1,68 @@
+
+```{=html}
+
+<% for (const item of items) { %>
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            <% if (item.photo) { %>
+                <img class="square-image w-100" src="<%= item.photo %>">
+            <% } %>
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4><%= item.name %></h4>
+                <div class="person-subtitle"><%= item.subtitle %></div>
+
+                <% if (item.linkedin) { %>
+                    <div class="linkedin-link">
+                        <a href="<%= item.linkedin %>" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                <% } %>
+            </div>
+
+            <p><%= item.bio %>
+            </p>
+        </div>
+    </div>
+<% } %>
+
+<style type="text/css">
+.person {
+    background: #f0f0f0;
+    padding: 20px;
+    margin: 20px 0px;
+    /* border: 1px solid #ddd; */
+}
+
+.person h4 {
+    margin: 0px !important;
+}
+
+.person-photo {
+    margin: -20px;
+}
+
+/* .person img {
+    background-clip: border-box;
+    border-radius: 50%;
+} */
+
+.person-subtitle {
+    font-style: italic;
+    color: #666;
+}
+
+.person-header {
+    margin-bottom: 10px;
+}
+
+/*
+@media (max-width: 576px) {
+    .person-header {
+        text-align: center;
+    }
+}
+*/
+
+</style>
+```
