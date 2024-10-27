@@ -9,6 +9,7 @@ website:
       - people/index.qmd
       - services/index.qmd
       - testimonials/index.qmd
+      - join-us/index.qmd
       - contact/index.qmd
       - about/index.qmd
 
