@@ -12,6 +12,13 @@ website:
       - join-us/index.qmd
       - contact/index.qmd
       - about/index.qmd
+    tools:
+      - icon: whatsapp
+        href: "https://wa.me/917760764217?text=I%27m+interested+to+know+more+about+Sambhavam."
+      - icon: instagram
+        href: "https://instagram.com/sambhavam.autism"
+      - icon: facebook
+        href: https://facebook.com/SambhavamAutism
 
 format:
   html:
