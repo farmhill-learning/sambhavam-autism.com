@@ -5,9 +5,11 @@ website:
   title: "Sambhavam"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - admissions/index.qmd
       - people/index.qmd
+      - services/index.qmd
+      - testimonials/index.qmd
+      - contact/index.qmd
       - about/index.qmd
 
 format:

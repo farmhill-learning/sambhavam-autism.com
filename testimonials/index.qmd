@@ -1,0 +1,6 @@
+---
+title: "Testimonials"
+page-layout: full
+---
+
+_Coming soon!_
