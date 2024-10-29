@@ -1,7 +1,30 @@
 ---
-title: "Sambhavam"
+title: "Sambhavam Center for Autism"
+subtitle: "Give your child the best with the team that understands Autism the best."
+
+buttons:
+    - text: Know More...
+      href: /about/
+      class: primary
+
+sidebar: false
+toc: false
+page-layout: custom
+format:
+  html:
+    template-partials:
+      - _theme/hero/title-block.html
+
+hero-background-image: images/hero-bg.jpg
+hero-color: white
+# hero-background-color: "#b6def9"
 ---
+
+
+::: {.container}
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+:::
