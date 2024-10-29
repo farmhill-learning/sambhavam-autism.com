@@ -1,5 +1,9 @@
 /* css styles */
 
+:root {
+    --primary-color: #0e71b5;
+}
+
 .hero {
     text-align: center;
     padding: 6rem 0 !important;
@@ -21,4 +25,13 @@
     font-size: 1.25rem;
     font-weight: 300;
 
+}
+
+h1, h2, h3, h4 {
+    color: var(--primary-color);
+}
+
+h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
 }

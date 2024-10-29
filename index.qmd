@@ -18,13 +18,24 @@ format:
 hero-background-image: images/hero-bg.jpg
 hero-color: white
 # hero-background-color: "#b6def9"
+
+
+listing:
+  - id: approach
+    template: _theme/two-column-sections.ejs
+    contents: approach.yml
+
 ---
 
+::: {.container .home}
 
-::: {.container}
+## Our Services
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Our Approach
+
+::: {#approach}
+:::
+
 
 :::
