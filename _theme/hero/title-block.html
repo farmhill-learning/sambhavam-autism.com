@@ -21,7 +21,12 @@
       background-size: cover;
     $endif$
     $if(hero-color)$
-      color: $hero-color$;
+      color: $hero-color$ !important;
+    $endif$
+  }
+  .hero h1 {
+    $if(hero-color)$
+      color: $hero-color$ !important;
     $endif$
   }
 </style>
