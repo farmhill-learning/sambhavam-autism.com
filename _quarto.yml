@@ -26,7 +26,7 @@ format:
       - cosmo
       - theme.scss
     css: styles.css
-    toc: true
+    toc: false 
 
 
 
