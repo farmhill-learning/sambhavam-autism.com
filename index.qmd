@@ -31,6 +31,33 @@ listing:
 
 ## Our Services
 
+::: {.grid .list-style-none .home-services}
+::: {.g-col-12 .g-col-md-4}
+### Early Intervention
+
+* [Assessments and IEP](/services/#assessments-and-iep)
+* [Assessments and IEP](/services/#assessments-and-iep)
+* [Assessments and IEP](/services/#assessments-and-iep)
+* [Assessments and IEP](/services/#assessments-and-iep)
+
+:::
+::: {.g-col-12 .g-col-md-4}
+### Academic Support
+
+* [Assessments and IEP](/services/#assessments-and-iep)
+* [Assessments and IEP](/services/#assessments-and-iep)
+* [Assessments and IEP](/services/#assessments-and-iep)
+
+:::
+::: {.g-col-12 .g-col-md-4}
+### Trainings & Workshops
+
+* [Assessments and IEP](/services/#assessments-and-iep)
+* [Assessments and IEP](/services/#assessments-and-iep)
+* [Assessments and IEP](/services/#assessments-and-iep)
+
+:::
+:::
 
 ## Our Approach
 
