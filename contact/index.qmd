@@ -42,17 +42,17 @@ You can also write your queries using the form below. Please choose the subject 
             </div>
 
             <div class="mb-3">
-                <input type="text" class="form-control" name="name" id="name" placeholder="Your Full Name">
+                <input type="text" class="form-control" name="name" id="name" placeholder="Your Full Name" required>
             </div>
             <div class="mb-3">
-                <input type="text" class="form-control" name="email" id="email" placeholder="Your Email Address">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email Address">
             </div>
             <div class="mb-3">
-                <input type="text" class="form-control" name="phone" id="phone" placeholder="Your Phone Number">
+                <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone Number" required>
             </div>
 
             <div class="mb-3">
-                <textarea class="form-control" id="message" name="message" placeholder="Your message" rows="3"></textarea>
+                <textarea class="form-control" id="message" name="message" placeholder="Your message" rows="3" required></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Send Message</button>
         </form>
