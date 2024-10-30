@@ -181,7 +181,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="grid contact">
     <div class="g-col-12 g-col-md-6">
         <form action="https://api.web3forms.com/submit" method="POST" class="p-3 bg-light border">
-            <input type="hidden" name="access_key" value="3a949dad-99e9-4103-8f40-651791473f9a">
+            <input type="hidden" name="access_key" value="bdd5b684-4a59-4066-bb9e-b7c924235351">
 
             <div class="mb-3">
                 <select name="subject" class="form-control">
@@ -193,17 +193,17 @@ ul.task-list li input[type="checkbox"] {
             </div>
 
             <div class="mb-3">
-                <input type="text" class="form-control" name="name" id="name" placeholder="Your Full Name">
+                <input type="text" class="form-control" name="name" id="name" placeholder="Your Full Name" required="">
             </div>
             <div class="mb-3">
-                <input type="text" class="form-control" name="email" id="email" placeholder="Your Email Address">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email Address">
             </div>
             <div class="mb-3">
-                <input type="text" class="form-control" name="phone" id="phone" placeholder="Your Phone Number">
+                <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone Number" required="">
             </div>
 
             <div class="mb-3">
-                <textarea class="form-control" id="message" name="message" placeholder="Your message" rows="3"></textarea>
+                <textarea class="form-control" id="message" name="message" placeholder="Your message" rows="3" required=""></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Send Message</button>
         </form>
