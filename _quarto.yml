@@ -10,6 +10,7 @@ website:
       - services/index.qmd
       - testimonials/index.qmd
       - join-us/index.qmd
+      - blog/index.qmd
       - contact/index.qmd
       - about/index.qmd
     tools:
@@ -26,7 +27,7 @@ format:
       - cosmo
       - theme.scss
     css: styles.css
-    toc: false 
+    toc: false
 
 
 
