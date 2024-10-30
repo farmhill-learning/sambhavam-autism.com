@@ -42,6 +42,13 @@
     "text": "Coming soon!"
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 26, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "people/index.html",
     "href": "people/index.html",
     "title": "People",
@@ -68,6 +75,13 @@
     "title": "About",
     "section": "We work with the whole family",
     "text": "We work with the whole family\nAt Sambhavam, our focus is on working with the family and not just provide fixed hours of therapy for the child.\nAs a community of parents and therapists, we understand the pressures felt by families with a child on the spectrum. We believe that parent awareness, and more importantly, parent traning are essential for the child to progress on the path of independence. When the therapies are augmented by the parents at home, the child gets the best help.\nWe believe that a child should get as much support as she needs, whether in therapy center or in school, for as long as she needs it. It is important that we invest time in building essential skills in a child, rather than try to push her through set levels of achievement. For long term effectiveness, it is important that the parents have a working relationship with the child, so they can continue to support the child."
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html#our-services",
