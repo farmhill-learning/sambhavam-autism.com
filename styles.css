@@ -114,3 +114,21 @@ h4, h5 {
 .page-cta a {
     border-radius: 5px;
 }
+
+.form-control {
+    /* background-color:#f4f5f6;
+    background-clip:padding-box;
+    border:1px solid #f4f5f6;
+    border-radius:.375rem; */
+
+    border-radius:.375rem;
+}
+
+.address {
+    white-space: pre-line;
+}
+
+.contact h4 {
+    margin-top: 0px;
+    margin-bottom: 0px !important;
+}
