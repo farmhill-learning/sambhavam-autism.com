@@ -2,6 +2,7 @@
 ## Edit the people.yml file if you want to modify the list of people
 
 title: "People"
+page-layout: full
 listing:
   - id: people
     template: ../_theme/people.ejs
