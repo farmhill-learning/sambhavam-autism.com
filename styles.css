@@ -30,17 +30,35 @@
 .hero .actions {
     font-size: 1.25rem;
     font-weight: 300;
-
 }
 
 h1, h2, h3, h4, h5 {
     color: var(--primary-color);
 }
 
+h2 {
+    font-size: 2em;
+}
+
 h4, h5 {
     font-size: 1.2rem;
     font-weight: 600;
     margin-bottom: 1rem !important;
+}
+
+
+@media (max-width: 768px) {
+    .hero-content {
+        padding-left: 3px !important;
+        padding-right: 3px !important;
+    }
+
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+    h2 {
+        font-size: 1.8em;
+    }
 }
 
 
@@ -77,4 +95,22 @@ h4, h5 {
 
 .home h2 {
     text-align: center;
+}
+
+
+.page-cta {
+    padding: 20px;
+    border: 1px solid #6dbdf4;
+    text-align: center;
+    background: #b6def9;
+    border-radius: 10px;
+    margin: 20px 0px;
+}
+
+.page-cta h4 {
+    margin-top: 1rem;
+}
+
+.page-cta a {
+    border-radius: 5px;
 }
