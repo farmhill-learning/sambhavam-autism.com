@@ -11,6 +11,7 @@ website:
       - testimonials/index.qmd
       - join-us/index.qmd
       - blog/index.qmd
+      - gallery/index.qmd
       - contact/index.qmd
       - about/index.qmd
     tools:

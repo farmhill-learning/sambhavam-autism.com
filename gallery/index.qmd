@@ -1,0 +1,13 @@
+---
+title: Gallery
+page-layout: full
+listing:
+  contents:
+    - "*/index.qmd"
+  type: grid
+  sort:
+    - "date desc"
+  date-format: "MMM YYYY"
+image: preview.jpg
+description: "Life at Farmhill in pictures!"
+---
