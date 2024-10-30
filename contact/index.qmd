@@ -30,7 +30,7 @@ You can also write your queries using the form below. Please choose the subject 
 <div class="grid contact">
     <div class="g-col-12 g-col-md-6">
         <form action="https://api.web3forms.com/submit" method="POST" class="p-3 bg-light border">
-            <input type="hidden" name="access_key" value="3a949dad-99e9-4103-8f40-651791473f9a">
+            <input type="hidden" name="access_key" value="bdd5b684-4a59-4066-bb9e-b7c924235351">
 
             <div class="mb-3">
                 <select name="subject" class="form-control">
