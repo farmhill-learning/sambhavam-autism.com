@@ -3,7 +3,10 @@ project:
 
 website:
   title: "Sambhavam"
+  favicon: /images/sambhavam-logo.png
   navbar:
+    background: light
+    logo: /images/sambhavam-logo.png
     left:
       - admissions/index.qmd
       - people/index.qmd
