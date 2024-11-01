@@ -15,7 +15,7 @@ page-layout: full
     </div>
     <div class="g-col-12 g-col-md-4 bg-light p-3 my-2 border">
         <div><strong><i class="bi bi-whatsapp"></i> WHATSAPP</strong></div>
-        <div><a href="https://wa.me/917760764217?text=I%27m+interested+to+know+more+about+Sambhavam">+917760764217</a>
+        <div><a href="https://wa.me/+917760764217?text=I%27m+interested+to+know+more+about+Sambhavam">+917760764217</a>
         </div>
     </div>
 </div>
