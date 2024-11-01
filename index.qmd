@@ -36,25 +36,25 @@ listing:
 ### Early Intervention
 
 * [Assessments and IEP](/services/#assessments-and-iep)
-* [Assessments and IEP](/services/#assessments-and-iep)
-* [Assessments and IEP](/services/#assessments-and-iep)
-* [Assessments and IEP](/services/#assessments-and-iep)
+* [one-to-one ABA Therapy](/services/#one-to-one-aba-therapy)
+* [Speech Therapy](/services/#speech-language-therapy)
+* [Occupational Therapy](/services/#occupational-therapy)
 
 :::
 ::: {.g-col-12 .g-col-md-4}
 ### Academic Support
 
-* [Assessments and IEP](/services/#assessments-and-iep)
-* [Assessments and IEP](/services/#assessments-and-iep)
-* [Assessments and IEP](/services/#assessments-and-iep)
+* [Shadow teachers](/services/#shadow-teachers)
+* [Remedial Programs](/services/#remedial-programs)
+* [Homeschooling Suppport](/services/#homeschooling-support)
 
 :::
 ::: {.g-col-12 .g-col-md-4}
 ### Trainings & Workshops
 
-* [Assessments and IEP](/services/#assessments-and-iep)
-* [Assessments and IEP](/services/#assessments-and-iep)
-* [Assessments and IEP](/services/#assessments-and-iep)
+* [Parent Training](/services/#parent-training)
+* [Awareness Programs](/services/#awareness-programs-and-workshops)
+* [Internships](/services/#internships)
 
 :::
 :::
