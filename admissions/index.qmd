@@ -22,3 +22,12 @@ If the parents and the team feel they can work together to provide the necesssar
 On the appointed date, the child can start coming to the center. We take a couple of weeks to assess the child thoroughly and develop an IEP. Now the child is a part of the center and we continue to work together! 
 
 
+::: {.page-cta}
+
+#### Need support for your child?
+
+Get in touch for expert help!
+
+<a href="/contact" class="btn btn-primary">Contact Us</a>
+
+:::
