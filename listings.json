@@ -6,14 +6,14 @@
     ]
   },
   {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/people/index.html",
     "items": []
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/eating-1/index.html"
+    ]
   },
   {
     "listing": "/index.html",
