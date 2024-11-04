@@ -3,7 +3,7 @@ title: "About"
 page-layout: full
 ---
 
-Sambhavam is a project of the Farm Hill Education Trust (FHT). At FHT, we work with neurodiverse children across age groups, through our various programs at Sambhavam, Subodha and Farm Hill Learning (FHL).
+Sambhavam is a project of the [Farm Hill Education Trust (FHT)](https://farmhill.in/). At FHT, we work with neurodiverse children across age groups, through our various programs at Sambhavam, [Subodha](https://subodha.farmhill.in/) and [Farm Hill Learning (FHL)](https://farmhill-learning.org).
 
 Sambhavam is focused mainly on early intervention, working with children upto 8 years of age. We think of ourselves as a community of parents and therapists interested in working with children on the spectrum and doing the best we can to improve their quality of life.
 
