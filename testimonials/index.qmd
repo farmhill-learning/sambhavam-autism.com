@@ -2,6 +2,7 @@
 title: "Testimonials"
 subtitle: People we work with, love us!
 page-layout: full
+title-block-banner: true
 ---
 
 ::: {.testimonial}
@@ -11,6 +12,12 @@ page-layout: full
 -- Parents of a 4 year old
 :::
 
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
 
 ::: {.testimonial}
 
@@ -19,6 +26,13 @@ page-layout: full
 -- Parents of a 5 year old boy
 :::
 
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+
 ::: {.testimonial}
 
  > Venu was my colleague from office. He nd Chithra were the ones we turned to when our son was first diagnosed with autism. They have been of tremendous help, support and guidance throughout the last 3 years. We reside in Mumbai and we have been regularly visiting Chithra for periodic assessment and therapy every 6 months. She also provides us with a program and outlines the goals/milestones to be achieved over the next 6 months. We have noticed that unlike most other centres where you have a one size fits all kind of approach; here a lot of care, attention and thought is spared towards each individual. We have seen our son make tremendous progress over these years. Thanks a lot for your care and efforts!
@@ -26,9 +40,23 @@ page-layout: full
 -- Parents of a 6 year old
 :::
 
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+
 ::: {.testimonial}
 
 >  Our daughter ‘Titli’ is now almost 4 yrs old. She started going to “Sambhavam” from mid January 2016. We opted for ABA therapy because she was unable to communicate her basic needs to us. Through these last 6 months, Titli has started communicating to us through PECS and pointing to objects that she wants. Her understanding of language is now excellent. Her social skills are improving and she has also started imitating very well. We are thankful to Chithra and her team of therapists for their support, hard work, and patience. Above all, what we like most about “Sambhavam”, is their transparency and their willingness to listen to our worries. We know that Chithra is always a call away to help us. We would say that finally we can see our daughter blossoming under their guidance.
 
 -- Parents of Titli
 :::
+
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```

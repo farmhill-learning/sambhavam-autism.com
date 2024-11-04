@@ -134,12 +134,17 @@ h4, h5 {
 }
 
 .testimonial {
-    margin-bottom: 50px;
+    margin: 3rem 0px;
+
     color: #6d7a86;
     font-weight: 100;
 	/* font-size: 1.5rem !important; */
     font-style: italic;
     color: var(--bs-body-color);
+}
+
+main .testimonial:first-child {
+    margin-top: 0px;
 }
 
 blockquote {
@@ -166,6 +171,7 @@ blockquote:after {
 	font-size: 4rem;
 	width: 2rem;
 	height: 2rem;
+    color: var(--primary-color);
 }
 
 blockquote:before {
@@ -179,3 +185,32 @@ blockquote:after {
 	right: 0rem;
 	bottom: 1rem;
 }
+
+.quarto-title-banner {
+    background-color: #b6def9;
+}
+
+.quarto-title-banner h1 {
+    color:  var(--primary-color);
+}
+
+.butter-line {
+    display:grid;
+    margin-bottom:10px;
+    text-align:center
+  }
+  .butter-line hr,
+  .butter-line div {
+    grid-column:1;
+    grid-row:1;
+  }
+  .butter-line hr {
+    border-color:#ffde00
+  }
+  .butter-line img {
+    width:24px;
+  }
+  .butter-line.full-width h2,
+  .butter-line.full-width div {
+    width:100%
+  }
