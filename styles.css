@@ -137,8 +137,9 @@ h4, h5 {
     margin-bottom: 50px;
     color: #6d7a86;
     font-weight: 100;
-	font-size: 1.5rem !important;
+	/* font-size: 1.5rem !important; */
     font-style: italic;
+    color: var(--bs-body-color);
 }
 
 blockquote {
@@ -151,25 +152,30 @@ blockquote {
 	padding: .5rem;
     border: none;
     font-style: normal;
+    color: inherit !important;
+}
+
+blockquote p {
+    color: inherit;
 }
 
 blockquote:before,
 blockquote:after {
 	position: absolute;
 	color: #f1efe6;
-	font-size: 8rem;
-	width: 4rem;
-	height: 4rem;
+	font-size: 4rem;
+	width: 2rem;
+	height: 2rem;
 }
 
 blockquote:before {
 	content: '“';
-	left: -3rem;
+	left: -0rem;
 	top: -2rem;
 }
 
 blockquote:after {
 	content: '”';
-	right: -3rem;
+	right: 0rem;
 	bottom: 1rem;
 }
