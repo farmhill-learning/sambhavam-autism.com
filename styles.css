@@ -132,3 +132,44 @@ h4, h5 {
     margin-top: 0px;
     margin-bottom: 0px !important;
 }
+
+.testimonial {
+    margin-bottom: 50px;
+    color: #6d7a86;
+    font-weight: 100;
+	font-size: 1.5rem !important;
+    font-style: italic;
+}
+
+blockquote {
+	font-weight: 200;
+	/* font-size: 1.5rem !important; */
+	/* max-width: 600px; */
+	line-height: 1.4;
+	position: relative;
+	margin: 0;
+	padding: .5rem;
+    border: none;
+    font-style: normal;
+}
+
+blockquote:before,
+blockquote:after {
+	position: absolute;
+	color: #f1efe6;
+	font-size: 8rem;
+	width: 4rem;
+	height: 4rem;
+}
+
+blockquote:before {
+	content: '“';
+	left: -3rem;
+	top: -2rem;
+}
+
+blockquote:after {
+	content: '”';
+	right: -3rem;
+	bottom: 1rem;
+}
