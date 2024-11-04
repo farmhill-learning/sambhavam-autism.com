@@ -1,10 +1,10 @@
 ---
-title: Sample Album
+title: A collage
 bread-crumbs: true
 filters:
     - lightbox
 lightbox: auto
-date: Apr 2021
+date: October 2024
 date-format: "MMM YYYY"
 image: photos/001.jpg
 ---

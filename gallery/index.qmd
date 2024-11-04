@@ -9,5 +9,5 @@ listing:
     - "date desc"
   date-format: "MMM YYYY"
 image: preview.jpg
-description: "Life at Farmhill in pictures!"
+description: "Sambhavam in pictures!"
 ---

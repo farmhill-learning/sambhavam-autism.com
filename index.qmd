@@ -3,8 +3,8 @@ title: "Sambhavam Center for Autism"
 subtitle: "Give your child the best with the team that understands Autism the best."
 
 buttons:
-    - text: Know More...
-      href: /about/
+    - text: Admissions
+      href: /admissions/
       class: primary
 
 sidebar: false
