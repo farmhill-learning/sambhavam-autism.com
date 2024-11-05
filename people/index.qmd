@@ -11,3 +11,13 @@ listing:
 
 ::: {#people}
 :::
+
+::: {.page-cta}
+
+#### Want to be part of the awesomeness?
+
+Write to us!
+
+<a href="/contact" class="btn btn-primary">Contact Us</a>
+
+:::
