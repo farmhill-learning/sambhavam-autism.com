@@ -20,6 +20,7 @@ hero-color: white
 # hero-background-color: "#b6def9"
 
 
+
 listing:
   - id: approach
     template: _theme/two-column-sections.ejs
@@ -62,6 +63,7 @@ listing:
 ## Our Approach
 
 ::: {#approach}
+
 :::
 
 :::
