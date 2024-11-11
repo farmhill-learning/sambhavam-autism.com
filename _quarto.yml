@@ -7,7 +7,9 @@ project:
 website:
   title: "Sambhavam"
   favicon: /images/sambhavam-logo.png
-  # site-url: https://sambhavam-autism.com/
+  open-graph: true
+  twitter-card: true
+  site-url: https://sambhavam-autism.com/
   navbar:
     background: light
     logo: /images/sambhavam-logo.png
