@@ -1,10 +1,13 @@
 project:
   type: website
+  render:
+    - "*"
+    - "!scripts/*"
 
 website:
   title: "Sambhavam"
   favicon: /images/sambhavam-logo.png
-  site-url: https://sambhavam-autism.com/
+  # site-url: https://sambhavam-autism.com/
   navbar:
     background: light
     logo: /images/sambhavam-logo.png
