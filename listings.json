@@ -15,11 +15,11 @@
     ]
   },
   {
-    "listing": "/people/index.html",
+    "listing": "/index.html",
     "items": []
   },
   {
-    "listing": "/index.html",
+    "listing": "/people/index.html",
     "items": []
   }
 ]
