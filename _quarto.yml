@@ -38,6 +38,7 @@ format:
       - theme.scss
     css: styles.css
     toc: false
+    html-math-method: plain
 
 
 
