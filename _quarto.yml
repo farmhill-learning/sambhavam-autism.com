@@ -1,9 +1,15 @@
 project:
   type: website
+  render:
+    - "*"
+    - "!scripts/*"
 
 website:
   title: "Sambhavam"
   favicon: /images/sambhavam-logo.png
+  open-graph: true
+  twitter-card: true
+  site-url: https://sambhavam-autism.com/
   navbar:
     background: light
     logo: /images/sambhavam-logo.png
@@ -32,6 +38,7 @@ format:
       - theme.scss
     css: styles.css
     toc: false
+    html-math-method: plain
 
 
 
