@@ -99,6 +99,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-locations .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image','listing-body',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-title","listing-image","listing-body"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-locations'] = new List('listing-locations', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
 
@@ -240,6 +268,57 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="./services/#internships">Internships</a></li>
 </ul>
 </section>
+</div>
+</section>
+<section id="our-locations" class="level2">
+<h2 data-anchor-id="our-locations">Our Locations</h2>
+<div id="listing-locations" class="quarto-listing quarto-listing-container-custom">
+
+<div class="grid">
+
+    <div class="g-col-12 g-col-md-6">
+        <div class="grid">
+        
+            <div class="g-col-12 g-col-md-4">
+                <img class="img-fluid" src="images/sambhavam_btm.jpg">
+            </div>
+            <div class="g-col-12 g-col-md-8">
+                <h4 style="margin-top: 0px;">Sambhavam BTM</h4>
+                <div>Sambhavam Centre for Autism <br>
+    Swati, #452, 7th Cross, 7th Main <br>
+    BTM Layout 2nd Stage <br>
+    Bangalore, Karnataka <br>
+    560076 <br>
+</div>
+            </div>
+        
+        </div>
+    </div>
+
+    <div class="g-col-12 g-col-md-6">
+        <div class="grid">
+        
+            <div class="g-col-12 g-col-md-4">
+                <img class="img-fluid" src="images/sambhavam_whitefield.jpg">
+            </div>
+            <div class="g-col-12 g-col-md-8">
+                <h4 style="margin-top: 0px;">Sambhavam Whitefield</h4>
+                <div>Orange International Preschool and Day care <br>
+    563, 60 Feet Road <br>
+    AECS Layout - C Block <br>
+    Brookfields <br>
+    Bangalore, Karnataka <br>
+    560037 <br>
+</div>
+            </div>
+        
+        </div>
+    </div>
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
 </div>
 </section>
 <section id="our-approach" class="level2">
