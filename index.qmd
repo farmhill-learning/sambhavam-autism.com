@@ -26,6 +26,11 @@ listing:
     template: _theme/two-column-sections.ejs
     contents: approach.yml
 
+  - id: locations
+    template: _theme/two-column-sections.ejs
+    contents: locations.yml
+
+
 ---
 
 ::: {.container .home}
@@ -59,6 +64,13 @@ listing:
 
 :::
 :::
+
+## Our Locations
+
+::: {#locations}
+
+:::
+
 
 ## Our Approach
 
