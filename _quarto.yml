@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Sambhavam"
-  description: "Autism center in BTM, providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy.
+  description: "Autism center in BTM Layout Bangalore, providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy.
 Experienced team, family focused approach."
   favicon: /images/sambhavam-logo.png
   open-graph: true
@@ -35,9 +35,9 @@ Experienced team, family focused approach."
   page-footer:
     border: true
     left: |
-      _Sambhavam Center for Autism_ is an initiative of [_Farm Hill Education Trust_](https://farmhill.in).<br>
-      Other initiatives include [_Farm Hill Learning Community_](https://farmhill-learning.org/)
-      and [_Subodha Learning Community_](https://subodha.farmhill.in).
+      An initiative of [_Farm Hill Education Trust_](https://farmhill.in).<br>
+      Other initiatives [_Farm Hill Learning Community_](https://farmhill-learning.org/) <br>
+      and [_Subodha Learning Community_](https://subodha.farmhill.in)
 
     right:
       - icon: whatsapp
