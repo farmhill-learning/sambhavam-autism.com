@@ -1,5 +1,6 @@
 ---
 title: "Haircut for Autism"
+description-meta: "Sambhavam is an autism center in BTM layout Bangalore, providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Experienced team, family focused approach."
 author: "Chithra Seshadri"
 date: "2024-11-19"
 categories: [Resources]
