@@ -6,8 +6,8 @@ project:
 
 website:
   title: "Sambhavam"
-  description: "Autism center in BTM Layout Bangalore, providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy.
-Experienced team, family focused approach."
+  description: "Autism center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. 
+  Locations: BTM Layout and Whitefield, Bangalore. Experienced team, family focused approach."
   favicon: /images/sambhavam-logo.png
   open-graph: true
   twitter-card: true
@@ -16,6 +16,10 @@ Experienced team, family focused approach."
     background: light
     logo: /images/sambhavam-logo.png
     left:
+      - text: "Locations"
+        menu: 
+          - locations/btm.qmd
+          - locations/whitefield.qmd
       - admissions/index.qmd
       - people/index.qmd
       - services/index.qmd

@@ -2,7 +2,7 @@
 title: "Sambhavam Center for Autism"
 subtitle: "Give your child the best with the team that understands Autism the best."
 
-description-meta: "Autism center in BTM, providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Experienced team, family focused approach."
+description-meta: "Autism center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Locations: BTM Layout and Whitefield, Bangalore. Experienced team, family focused approach."
 
 image: images/preview.png
 
