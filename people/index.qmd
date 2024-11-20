@@ -4,13 +4,37 @@
 title: "People"
 page-layout: full
 listing:
-  - id: people
+  - id: management
     template: ../_theme/people.ejs
-    contents: people.yml
----
+    contents: ../people/management/management.yml
 
-::: {#people}
+  - id: team-btm
+    template: ../_theme/people.ejs
+    contents: ../people/team/btm/team-btm.yml
+
+  - id: team-whitefield
+    template: ../_theme/people.ejs
+    contents: ../people/team/whitefield/team-whitefield.yml
+
+---
+### Management Team
+
+::: {#management}
+
 :::
+
+### Team Sambhavam BTM
+
+::: {#team-btm}
+
+:::
+
+### Team Sambhavam Whitefield 
+
+::: {#team-whitefield}
+
+:::
+
 
 ::: {.page-cta}
 

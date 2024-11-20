@@ -1,8 +1,30 @@
 ---
 title: "Sambhavam Whitefield"
 page-layout: full
+
+listing:
+  - id: management
+    template: ../_theme/people.ejs
+    contents: ../people/management/management.yml
+
+  - id: team-whitefield
+    template: ../_theme/people.ejs
+    contents: ../people/team/whitefield/team-whitefield.yml
+
 ---
 Sambhavam center is located in the premises of Orange International Pre-school and Daycare in Whitefield. We work closely with the preschool to ensure an integrated schooling experience for neurodiverse children. 
 
 The team at Sambhavam is ably led by senior people with a collective experience of about 45 years between them. We recruit carefully and train thoroughly. 
+
+## Management team
+
+::: {#management}
+
+:::
+
+## Team Sambhavam Whitefield
+
+::: {#team-whitefield}
+
+:::
 

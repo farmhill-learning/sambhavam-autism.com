@@ -1,8 +1,30 @@
 ---
 title: "Sambhavam BTM"
 page-layout: full
+
+listing:
+  - id: management
+    template: ../_theme/people.ejs
+    contents: ../people/management/management.yml
+
+  - id: team-btm
+    template: ../_theme/people.ejs
+    contents: ../people/team/btm/team-btm.yml
 ---
+
 Sambhavam Center for Autism opened its doors in BTM in 2014 and moved to the current location in 2016. Ever since, we have been working closely with families living with autism, providing early intervention services, counselling and consulting. 
 
 The team at Sambhavam is ably led by senior people with a collective experience of about 45 years between them. We recruit carefully and train thoroughly. 
+
+## Management team
+
+::: {#management}
+
+:::
+
+## Team Sambhavam BTM
+
+::: {#team-btm}
+
+:::
 

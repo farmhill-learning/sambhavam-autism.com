@@ -1,27 +1,7 @@
 
-- name: Chitra Seshadri 
-  subtitle: Director
-  photo: chitra.jpg
-  linkedin: https://www.linkedin.com/in/chithra-seshadri-249a9b59/
-  bio: |
-    At Sambhavam, Chitra supervises all the thrapy work and manages the team. With about fifteen years
-    of personal and professional experience working with people on the spectrum across age groups, she 
-    brings a holistic point of view to the table. She is a BCaBA and has a master's degree in education
-    from the Tata Institute of Social Sciences, Mumbai. 
-
-- name: Meena
-  subtitle: Center Head
-  photo: meena.jpg
-  bio: |
-    Meena has about 15 years of experience working with early intervention in autism. At Sambhavam, 
-    she manages the day to day running of the center, interfaces with the parents and therapists and 
-    ensures everything works efficiently and effectively. 
-
-    Meena has a bachelors degree in Math and she is also a BCaBA. 
-
 - name: Shankari
-  subtitle: Center Manager
-  photo: shankari.jpg
+  subtitle: Center Manager - BTM
+  photo: ../people/team/btm/shankari.jpg
   bio: |
     Shankari has about a decade of experience working with autism, and she has been with Sambhavam for 
     that long. She supervises the day to day work of the therapists, handles parent's queries and takes 
@@ -29,7 +9,7 @@
 
 - name: Chitra
   subtitle: Classroom Support
-  photo: chithraa.jpg
+  photo: ../people/team/btm/chithraa.jpg
   bio: |
     Chitra is a classroom support teacher. She provides individualized support for children in 
     the classroom. She helps children in task completion and 
@@ -37,14 +17,14 @@
 
 - name: Malavika
   subtitle: Therapist
-  photo: malavika.jpg
+  photo: ../people/team/btm/malavika.jpg
   bio: |
     Malavika is very comfortable working with children. She understands the interventions 
     very well and implements them. Her interactions wit children are natural. 
 
 - name: Martha
   subtitle: Therapist
-  photo: martha.jpg
+  photo: ../people/team/btm/martha.jpg
   bio: |
     Martha is a popular therapist - she has a remarkable ability to understand 
     their needs and personalities. Her strong rapport and bonding with children 
@@ -53,25 +33,24 @@
 
 - name: Neha
   subtitle: Therapist
-  photo: neha.jpg
+  photo: ../people/team/btm/neha.jpg
   bio: |
      Neha is a dedicated therapist - she is firm yet kind. Through her engagement and effort, she 
      ensures her students acquire new skills. 
 
 - name: Parimala
   subtitle: Therapist
-  photo: parimala.jpg
+  photo: ../people/team/btm/parimala.jpg
   bio: |
      Parimala is very observant, she is a quick learner. She tracks the progress of all the children 
      she works with and ensures programs move forward.
 
 - name: Vaishnavee
   subtitle: Therapist
-  photo: vaishnavee.jpg
+  photo: ../people/team/btm/vaishnavee.jpg
   bio: |
      Vaishnavee is very adaptive - she handles different children and their interventions, effortlessly. 
      She is also the voice of all the instructional videos we make!
-
 
 
 
