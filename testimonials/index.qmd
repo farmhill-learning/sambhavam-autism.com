@@ -7,6 +7,78 @@ title-block-banner: true
 
 ::: {.testimonial}
 
+> Simply amazing. My son had mild autism spectrum disorder, but after starting the sessions with Sambhavam, I could see a drastic improvement in certain areas of his behaviour and personality. I would like to take this opportunity to thank Aditi, Nidhi, Meena, Shankari and Geetha. Special thanks to Dr. Nawab and Tanuja for OT and Speech therapy. They give a lot of importance for emotional support. Over the course, I realised that this is a very good centre for improving your child's overall development. This has benefitted a lot of children in my opinion. Thank you Chitra. 
+
+-- Latha Karu (November 2023)
+
+:::
+
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+
+::: {.testimonial}
+
+ > Sambhavam helped us understand our kid better and to explore the possibilities for our child. Chitra, the lady behind this centre has become a sounding board and wall of support for us as well. She also guided us in the correct direction beyond ABA therapy. This therapy (and the awesome therapists here) guided us to focus on the reason behind a behaviour rather than on the behaviour itself. Our son is now blossoming into a cheerful, optimistic child who is gaining confidence on his special skills. We are thankful to the team for the support over the past few years.
+
+-- Swetha Sekar (July 2023)
+
+:::
+
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+::: {.testimonial}
+
+> Had a wonderful experience with this centre, my son Aayush enjoyed, learned and with lots of development..... like he started his basic to communication through Avaz, which ofcourse have to be followed at home and his receptive knowledge increased, he was able to regulate himself at various situations with less behaviours, he also started following instructions. My wife also got trained, which is very very useful in home and future. Thanks to Chitra, Chelsea, Dr. Nawab and all the wonderful teachers for their love and care to our kids.
+
+ -- Manjunath Bhat (May 2023)
+:::
+
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+
+
+::: {.testimonial}
+
+> We were associated with Sambhavam for almost 5 years. Centre has dedicated team, and unified approach to deal and handle kids. Lots of love shown to kids and my child loves his therapists and enjoy going to centre everyday. He has improved a lot and as a parent we could see the changes in him. All his learnings happened only at Sambhavam. Special thanks to Chitra Mam, Venu Sir, Meena Mam, Chelsea, Khadija, Siri, Vineet, Miftah, Nirmala, Sunayana and helper Mahadevamma.
+
+-- Vidhya Lakshmi (April 2023)
+:::
+
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+::: {.testimonial}
+
+> There are many schools of thought around ABA therapy, including some not-very-positive ones. I have no conclusive judgement of my own yet, but what I do have is a year’s worth of my child’s journey at Sambhavam center. ABA therapy for my son helped us as parents equally, if not more, to understand and manage our lives around ASD. With structure and discipline being central to our routine, i can say that my son found more ways to communicate using his minuscule vocabulary.. And we possibly began to understand him better, making it relatively easier for us to navigate the everyday in this space we call autism.
+Our son, now 7, is part of an integrated setup at a mainstream school, and while it’s too early to assess if this enrollment is a good decision, the credit for his school-readiness can certainly be attributed to the tenure at Sambhavam. Our greetings and gratitude to Chitra who always had all the answers to all our concerns and questions. And a very special mention to Chelsea, the centre supervisor, whose disciplined and data-oriented approach was key to our overall progress. Thank you, to one and all at Sambhavam, once again.
+
+-- Indira Parthasarathy (October 2023)
+:::
+
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+
+::: {.testimonial}
+
 >  Well begun is half done! Good start is important for anything we do. We are satisfied that we started our life journey through autism in Sambhavam. Though we started the intervention service very late for our son, we could see many changes within few days. He could start following instructions, his pointing skills and sitting tolerance was improved. We realized that puzzles is his strength. Though he is still under toilet training, it is much better now. His eating habits were Improved. Thanks to Chithra for her proper guidance given to parents in every small thing in the daily routine. Thanks to Sambhavam team for their kind support. Sambhavam gave us confidence for our future journey. Keep up the good work Chithra and team!
 
 -- Parents of a 4 year old
@@ -35,7 +107,7 @@ title-block-banner: true
 
 ::: {.testimonial}
 
- > Venu was my colleague from office. He nd Chithra were the ones we turned to when our son was first diagnosed with autism. They have been of tremendous help, support and guidance throughout the last 3 years. We reside in Mumbai and we have been regularly visiting Chithra for periodic assessment and therapy every 6 months. She also provides us with a program and outlines the goals/milestones to be achieved over the next 6 months. We have noticed that unlike most other centres where you have a one size fits all kind of approach; here a lot of care, attention and thought is spared towards each individual. We have seen our son make tremendous progress over these years. Thanks a lot for your care and efforts!
+ > Venu was my colleague from office. He and Chithra were the ones we turned to when our son was first diagnosed with autism. They have been of tremendous help, support and guidance throughout the last 3 years. We reside in Mumbai and we have been regularly visiting Chithra for periodic assessment and therapy every 6 months. She also provides us with a program and outlines the goals/milestones to be achieved over the next 6 months. We have noticed that unlike most other centres where you have a one size fits all kind of approach; here a lot of care, attention and thought is spared towards each individual. We have seen our son make tremendous progress over these years. Thanks a lot for your care and efforts!
 
 -- Parents of a 6 year old
 :::
