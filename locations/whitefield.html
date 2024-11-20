@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="..//images/sambhavam-logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,6 +70,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-management .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-name','listing-subtitle','listing-photo','listing-linkedin','listing-bio',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-name","listing-subtitle","listing-photo","listing-linkedin","listing-bio"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-management'] = new List('listing-management', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-team-whitefield .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-name','listing-subtitle','listing-photo','listing-bio',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-name","listing-subtitle","listing-photo","listing-bio"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-team-whitefield'] = new List('listing-team-whitefield', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -189,8 +248,271 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Sambhavam center is located in the premises of Orange International Pre-school and Daycare in Whitefield. We work closely with the preschool to ensure an integrated schooling experience for neurodiverse children.</p>
 <p>The team at Sambhavam is ably led by senior people with a collective experience of about 45 years between them. We recruit carefully and train thoroughly.</p>
+<section id="management-team" class="level2">
+<h2 class="anchored" data-anchor-id="management-team">Management team</h2>
+<div id="listing-management" class="quarto-listing quarto-listing-container-custom">
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/management/chitra.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Chitra Seshadri</h4>
+                <div class="person-subtitle">Director</div>
+
+                
+                    <div class="linkedin-link">
+                        <a href="https://www.linkedin.com/in/chithra-seshadri-249a9b59/" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                
+            </div>
+
+            <p>At Sambhavam, Chitra supervises all the thrapy work and manages the team. With about fifteen years
+of personal and professional experience working with people on the spectrum across age groups, she 
+brings a holistic point of view to the table. She is a BCaBA and has a master's degree in education
+from the Tata Institute of Social Sciences, Mumbai. 
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/management/meena.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Meena</h4>
+                <div class="person-subtitle">Center Director</div>
+
+                
+            </div>
+
+            <p>Meena has about 15 years of experience working with early intervention in autism. At Sambhavam, 
+she manages the day to day running of the center, interfaces with the parents and therapists and 
+ensures everything works efficiently and effectively. 
+
+Meena has a bachelors degree in Math and she is also a BCaBA. 
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/management/venu2024.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Venu</h4>
+                <div class="person-subtitle">Director</div>
+
+                
+                    <div class="linkedin-link">
+                        <a href="https://www.linkedin.com/in/venugvgk" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                
+            </div>
+
+            <p>Venu has about 15 years of personal and professional experience with autism. 
+In addition, he has about 20 years of experience in building and running high performance teams. 
+At Sambhavam, he takes care of administration, team management and financial management. He has a bachelors
+Englineering and a masters in business from the IIM Bangalore. He is also a candidate in the masters in education
+programs at Tata Institute of Social Sciences (2024-26).
+
+            </p>
+        </div>
+    </div>
+
+<style type="text/css">
+.person {
+    background: #f0f0f0;
+    padding: 20px;
+    margin: 20px 0px;
+    /* border: 1px solid #ddd; */
+}
+
+.person h4 {
+    margin: 0px !important;
+}
+
+.person-photo {
+    margin: -20px;
+}
+
+/* .person img {
+    background-clip: border-box;
+    border-radius: 50%;
+} */
+
+.person-subtitle {
+    font-style: italic;
+    color: #666;
+}
+
+.person-header {
+    margin-bottom: 10px;
+}
+
+/*
+@media (max-width: 576px) {
+    .person-header {
+        text-align: center;
+    }
+}
+*/
+
+</style>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="team-sambhavam-whitefield" class="level2">
+<h2 class="anchored" data-anchor-id="team-sambhavam-whitefield">Team Sambhavam Whitefield</h2>
+<div id="listing-team-whitefield" class="quarto-listing quarto-listing-container-custom">
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/whitefield/chelsea.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Chelsea George</h4>
+                <div class="person-subtitle">Center Manager - Whitefield</div>
+
+                
+            </div>
+
+            <p>Chelsea has been with Sambhavam since 2016. She started out as a therapist and over the years built her technical
+and people skills, progressing to a supervisor and then a center manager at the Whitefiled center. 
+She has a bachelors in psychology, she is a Registered Behavior Technician, and currently pursuing masters
+in psychology. 
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/whitefield/harshitha.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Harshitha</h4>
+                <div class="person-subtitle">Therapist</div>
+
+                
+            </div>
+
+            <p>Harshitha works with children very effectively. 
+She implements tailored strategies with ease, making her interactions with kids naturally engaging 
+and supportive.
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/whitefield/martha.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Martha</h4>
+                <div class="person-subtitle">Therapist</div>
+
+                
+            </div>
+
+            <p>Martha is a calm and empathetic therapist. 
+Her gentle approach with children helps her form a trusting relationship with them.
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/whitefield/jesilin.jpeg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Jesilin</h4>
+                <div class="person-subtitle">Therapist</div>
+
+                
+            </div>
+
+            <p>Jesilin is a passionate therapist dedicated to helping children. 
+Her eagerness to learn and grow is reflected in her sessions.
+
+            </p>
+        </div>
+    </div>
+
+<style type="text/css">
+.person {
+    background: #f0f0f0;
+    padding: 20px;
+    margin: 20px 0px;
+    /* border: 1px solid #ddd; */
+}
+
+.person h4 {
+    margin: 0px !important;
+}
+
+.person-photo {
+    margin: -20px;
+}
+
+/* .person img {
+    background-clip: border-box;
+    border-radius: 50%;
+} */
+
+.person-subtitle {
+    font-style: italic;
+    color: #666;
+}
+
+.person-header {
+    margin-bottom: 10px;
+}
+
+/*
+@media (max-width: 576px) {
+    .person-header {
+        text-align: center;
+    }
+}
+*/
+
+</style>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

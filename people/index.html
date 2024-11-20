@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-people .list');
+    const listingTargetEl = window.document.querySelector('#listing-management .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -86,7 +86,63 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-people'] = new List('listing-people', options);
+    window['quarto-listings']['listing-management'] = new List('listing-management', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-team-btm .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-name','listing-subtitle','listing-photo','listing-bio',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-name","listing-subtitle","listing-photo","listing-bio"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-team-btm'] = new List('listing-team-btm', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-team-whitefield .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-name','listing-subtitle','listing-photo','listing-bio',{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: ["listing-name","listing-subtitle","listing-photo","listing-bio"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-team-whitefield'] = new List('listing-team-whitefield', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -103,10 +159,8 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="People – Sambhavam">
-<meta property="og:description" content="Autism center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Locations: BTM Layout and Whitefield, Bangalore. Experienced team, family focused approach.">
 <meta property="og:site_name" content="Sambhavam">
 <meta name="twitter:title" content="People – Sambhavam">
-<meta name="twitter:description" content="Autism center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Locations: BTM Layout and Whitefield, Bangalore. Experienced team, family focused approach.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -218,12 +272,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div id="listing-people" class="quarto-listing quarto-listing-container-custom">
+<section id="management-team" class="level3">
+<h3 class="anchored" data-anchor-id="management-team">Management Team</h3>
+<div id="listing-management" class="quarto-listing quarto-listing-container-custom">
 
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="chitra.jpg">
+                <img class="square-image w-100" src="../people/management/chitra.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
@@ -250,13 +306,13 @@ from the Tata Institute of Social Sciences, Mumbai.
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="meena.jpg">
+                <img class="square-image w-100" src="../people/management/meena.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
             <div class="person-header text-center-sm">
                 <h4 class="anchored">Meena</h4>
-                <div class="person-subtitle">Center Head</div>
+                <div class="person-subtitle">Center Director</div>
 
                 
             </div>
@@ -274,13 +330,89 @@ Meena has a bachelors degree in Math and she is also a BCaBA.
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="shankari.jpg">
+                <img class="square-image w-100" src="../people/management/venu2024.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Venu</h4>
+                <div class="person-subtitle">Director</div>
+
+                
+                    <div class="linkedin-link">
+                        <a href="https://www.linkedin.com/in/venugvgk" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+                    </div>
+                
+            </div>
+
+            <p>Venu has about 15 years of personal and professional experience with autism. 
+In addition, he has about 20 years of experience in building and running high performance teams. 
+At Sambhavam, he takes care of administration, team management and financial management. He has a bachelors
+Englineering and a masters in business from the IIM Bangalore. He is also a candidate in the masters in education
+programs at Tata Institute of Social Sciences (2024-26).
+
+            </p>
+        </div>
+    </div>
+
+<style type="text/css">
+.person {
+    background: #f0f0f0;
+    padding: 20px;
+    margin: 20px 0px;
+    /* border: 1px solid #ddd; */
+}
+
+.person h4 {
+    margin: 0px !important;
+}
+
+.person-photo {
+    margin: -20px;
+}
+
+/* .person img {
+    background-clip: border-box;
+    border-radius: 50%;
+} */
+
+.person-subtitle {
+    font-style: italic;
+    color: #666;
+}
+
+.person-header {
+    margin-bottom: 10px;
+}
+
+/*
+@media (max-width: 576px) {
+    .person-header {
+        text-align: center;
+    }
+}
+*/
+
+</style>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="team-sambhavam-btm" class="level3">
+<h3 class="anchored" data-anchor-id="team-sambhavam-btm">Team Sambhavam BTM</h3>
+<div id="listing-team-btm" class="quarto-listing quarto-listing-container-custom">
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/btm/shankari.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
             <div class="person-header text-center-sm">
                 <h4 class="anchored">Shankari</h4>
-                <div class="person-subtitle">Center Manager</div>
+                <div class="person-subtitle">Center Manager - BTM</div>
 
                 
             </div>
@@ -296,7 +428,7 @@ care of new initiatives. She is a Registered Behaviour Technician.
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="chithraa.jpg">
+                <img class="square-image w-100" src="../people/team/btm/chithraa.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
@@ -318,7 +450,7 @@ redirects them wonderfully to follow the classroom rules.
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="malavika.jpg">
+                <img class="square-image w-100" src="../people/team/btm/malavika.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
@@ -339,7 +471,7 @@ very well and implements them. Her interactions wit children are natural.
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="martha.jpg">
+                <img class="square-image w-100" src="../people/team/btm/martha.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
@@ -362,7 +494,7 @@ encouraging learning environment.
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="neha.jpg">
+                <img class="square-image w-100" src="../people/team/btm/neha.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
@@ -383,7 +515,7 @@ ensures her students acquire new skills.
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="parimala.jpg">
+                <img class="square-image w-100" src="../people/team/btm/parimala.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
@@ -404,7 +536,7 @@ she works with and ensures programs move forward.
     <div class="person rounded-2 border grid">
         <div class="g-col-12 g-col-md-4 g-col-lg-2">
             
-                <img class="square-image w-100" src="vaishnavee.jpg">
+                <img class="square-image w-100" src="../people/team/btm/vaishnavee.jpg">
             
         </div>
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
@@ -465,6 +597,141 @@ She is also the voice of all the instructional videos we make!
 No matching items
 </div>
 </div>
+</section>
+<section id="team-sambhavam-whitefield" class="level3">
+<h3 class="anchored" data-anchor-id="team-sambhavam-whitefield">Team Sambhavam Whitefield</h3>
+<div id="listing-team-whitefield" class="quarto-listing quarto-listing-container-custom">
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/whitefield/chelsea.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Chelsea George</h4>
+                <div class="person-subtitle">Center Manager - Whitefield</div>
+
+                
+            </div>
+
+            <p>Chelsea has been with Sambhavam since 2016. She started out as a therapist and over the years built her technical
+and people skills, progressing to a supervisor and then a center manager at the Whitefiled center. 
+She has a bachelors in psychology, she is a Registered Behavior Technician, and currently pursuing masters
+in psychology. 
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/whitefield/harshitha.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Harshitha</h4>
+                <div class="person-subtitle">Therapist</div>
+
+                
+            </div>
+
+            <p>Harshitha works with children very effectively. 
+She implements tailored strategies with ease, making her interactions with kids naturally engaging 
+and supportive.
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/whitefield/martha.jpg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Martha</h4>
+                <div class="person-subtitle">Therapist</div>
+
+                
+            </div>
+
+            <p>Martha is a calm and empathetic therapist. 
+Her gentle approach with children helps her form a trusting relationship with them.
+
+            </p>
+        </div>
+    </div>
+
+    <div class="person rounded-2 border grid">
+        <div class="g-col-12 g-col-md-4 g-col-lg-2">
+            
+                <img class="square-image w-100" src="../people/team/whitefield/jesilin.jpeg">
+            
+        </div>
+        <div class="g-col-12 g-col-md-8 g-col-lg-10">
+            <div class="person-header text-center-sm">
+                <h4 class="anchored">Jesilin</h4>
+                <div class="person-subtitle">Therapist</div>
+
+                
+            </div>
+
+            <p>Jesilin is a passionate therapist dedicated to helping children. 
+Her eagerness to learn and grow is reflected in her sessions.
+
+            </p>
+        </div>
+    </div>
+
+<style type="text/css">
+.person {
+    background: #f0f0f0;
+    padding: 20px;
+    margin: 20px 0px;
+    /* border: 1px solid #ddd; */
+}
+
+.person h4 {
+    margin: 0px !important;
+}
+
+.person-photo {
+    margin: -20px;
+}
+
+/* .person img {
+    background-clip: border-box;
+    border-radius: 50%;
+} */
+
+.person-subtitle {
+    font-style: italic;
+    color: #666;
+}
+
+.person-header {
+    margin-bottom: 10px;
+}
+
+/*
+@media (max-width: 576px) {
+    .person-header {
+        text-align: center;
+    }
+}
+*/
+
+</style>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 <section id="want-to-be-part-of-the-awesomeness" class="level4 page-cta">
 <h4 class="anchored" data-anchor-id="want-to-be-part-of-the-awesomeness">Want to be part of the awesomeness?</h4>
 <p>Write to us!</p>
@@ -473,6 +740,7 @@ No matching items
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

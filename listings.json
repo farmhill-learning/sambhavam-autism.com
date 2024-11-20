@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/locations/btm.html",
+    "items": []
+  },
+  {
     "listing": "/gallery/index.html",
     "items": [
       "/gallery/sample-album/index.html"
@@ -17,6 +21,10 @@
   },
   {
     "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/locations/whitefield.html",
     "items": []
   },
   {
