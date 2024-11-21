@@ -2,6 +2,7 @@
 title: "How Autistic Children Learn"
 description-meta: "Sambhavam is an autism center in BTM layout Bangalore, providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Experienced team, family focused approach."
 author: "Chithra Seshadri"
+image: "tabletop-therapy.jpg"
 date: "2024-10-30"
 categories: [Resources]
 ---
