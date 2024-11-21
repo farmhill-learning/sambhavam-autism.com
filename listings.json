@@ -1,11 +1,13 @@
 [
   {
-    "listing": "/locations/btm.html",
+    "listing": "/people/index.html",
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": []
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/sample-album/index.html"
+    ]
   },
   {
     "listing": "/blog/index.html",
@@ -17,17 +19,16 @@
       "/blog/eating-2/index.html",
       "/blog/eating-1/index.html",
       "/blog/fostering-connection/index.html",
-      "/blog/inclusion-good-hands/index.html"
+      "/blog/inclusion-good-hands/index.html",
+      "/blog/clothing-sensitivity/index.html"
     ]
   },
   {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/sample-album/index.html"
-    ]
+    "listing": "/index.html",
+    "items": []
   },
   {
-    "listing": "/people/index.html",
+    "listing": "/locations/btm.html",
     "items": []
   },
   {
