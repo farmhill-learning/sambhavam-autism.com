@@ -1,6 +1,7 @@
 ---
 title: "Sambhavam BTM"
 page-layout: full
+title-block-banner: true
 
 listing:
   - id: management
