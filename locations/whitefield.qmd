@@ -1,6 +1,7 @@
 ---
 title: "Sambhavam Whitefield"
 page-layout: full
+title-block-banner: true
 
 listing:
   - id: management
@@ -15,6 +16,36 @@ listing:
 Sambhavam center is located in the premises of Orange International Pre-school and Daycare in Whitefield. We work closely with the preschool to ensure an integrated schooling experience for neurodiverse children. 
 
 The team at Sambhavam is ably led by senior people with a collective experience of about 45 years between them. We recruit carefully and train thoroughly. 
+
+Here is a sample of what parents are saying about us! 
+
+::: {.testimonial}
+
+> My daughter studied here for more a year and It was a great journey. I would like to thank specifically Chelsea, Vaishanvi, Harshitha and Arya! They have skilled teachers and do an outstanding job. Its amazing how they transformed my daughter through their intervention strategies. Great school. Thank you all!
+
+-- Vivekanandan Ilangovan (July 2024)
+:::
+
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+::: {.testimonial}
+
+> Our daughter has been going here since she was 2.3 years old, specifically for ABA therapy with Sambhavam which is operating within the school premises. This is quite unique about this school as generally you will not find this in other pre-schools. This allows our child to have interactions with other kids and at the same time get required 1:1 attention. We have seen exceptional improvements in our daughter's development  milestones ever since we got her started here. We are very happy as parents and highly recommend this place.
+
+-- Vivek Karna (June 2024)
+:::
+
+```{=html}
+<div class="butter-line">
+    <hr>
+    <div><img src="/images/butterfly-small.png"></div>
+</div>
+```
+
 
 ## Management team
 
