@@ -1,10 +1,6 @@
 [
   {
-    "listing": "/people/index.html",
-    "items": []
-  },
-  {
-    "listing": "/locations/whitefield.html",
+    "listing": "/locations/btm.html",
     "items": []
   },
   {
@@ -31,7 +27,11 @@
     ]
   },
   {
-    "listing": "/locations/btm.html",
+    "listing": "/people/index.html",
+    "items": []
+  },
+  {
+    "listing": "/locations/whitefield.html",
     "items": []
   }
 ]
