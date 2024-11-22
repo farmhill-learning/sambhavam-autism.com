@@ -4,7 +4,7 @@ description-meta: "Sambhavam is an autism center in BTM layout Bangalore, provid
 author: "Chithra Seshadri"
 image: "clothing-sensitivity.jpg"
 date: "2024-09-05"
-categories: [Resources]
+categories: [Success Stories]
 ---
 
 Clothing sensitivity is a common issue that we come across, as we work with children on the spectrum. 
