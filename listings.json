@@ -1,17 +1,16 @@
 [
   {
-    "listing": "/people/index.html",
+    "listing": "/locations/btm.html",
     "items": []
   },
   {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/sample-album/index.html"
-    ]
+    "listing": "/index.html",
+    "items": []
   },
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/air-travel/index.html",
       "/blog/haircut/index.html",
       "/blog/how-autistics-learn/index.html",
       "/blog/eating-4/index.html",
@@ -24,11 +23,13 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": []
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/sample-album/index.html"
+    ]
   },
   {
-    "listing": "/locations/btm.html",
+    "listing": "/people/index.html",
     "items": []
   },
   {
