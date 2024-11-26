@@ -1,5 +1,6 @@
 ---
 title: "Admissions"
+description: "Autism center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Locations: BTM Layout and Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
 page-layout: full
 ---
 

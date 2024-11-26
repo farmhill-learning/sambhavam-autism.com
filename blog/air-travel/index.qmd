@@ -1,7 +1,8 @@
 ---
 title: "Facilitating Air Travel"
 subtitle: "The power of preparation, schedule and social stories"
-description-meta: "Sambhavam is an autism center in BTM layout Bangalore, providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Experienced team, family focused approach."
+description-meta: "Autism center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Locations: BTM Layout and Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
+
 author: "Chithra Seshadri"
 image: "airplane-thumbnail.jpg"
 date: "2024-11-22"
