@@ -1,5 +1,6 @@
 ---
 title: "Eating Interventions: Eating too little"
+description-meta: "Sambhavam is an autism center in BTM layout Bangalore, providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Experienced team, family focused approach."
 author: "Chithra Seshadri"
 date: "2024-10-4"
 categories: [Resources]
