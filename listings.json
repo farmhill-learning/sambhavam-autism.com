@@ -4,7 +4,7 @@
     "items": []
   },
   {
-    "listing": "/locations/whitefield.html",
+    "listing": "/locations/btm.html",
     "items": []
   },
   {
@@ -12,8 +12,15 @@
     "items": []
   },
   {
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/sample-album/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/compliance-cooperation/index.html",
       "/blog/air-travel/index.html",
       "/blog/haircut/index.html",
       "/blog/how-autistics-learn/index.html",
@@ -27,13 +34,7 @@
     ]
   },
   {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/sample-album/index.html"
-    ]
-  },
-  {
-    "listing": "/locations/btm.html",
+    "listing": "/locations/whitefield.html",
     "items": []
   }
 ]
