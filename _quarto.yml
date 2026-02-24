@@ -20,11 +20,9 @@ website:
         menu: 
           - locations/btm.qmd
           - locations/whitefield.qmd
-      - admissions/index.qmd
       - people/index.qmd
       - services/index.qmd
       - testimonials/index.qmd
-      - join-us/index.qmd
       - blog/index.qmd
       - gallery/index.qmd
       - contact/index.qmd
