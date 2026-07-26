@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Locations: BTM Layout and Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
+description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Location: Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
 page-layout: full
 ---
 
@@ -58,20 +58,7 @@ You can also write your queries using the form below. Please choose the subject 
             <button type="submit" class="btn btn-primary">Send Message</button>
         </form>
     </div>
-    <div class="g-col-12 g-col-md-6">
-        <div class="mb-3">
-            <h4>Sambhavam BTM</h4>
-            <div class="address">Sambhavam Centre for Autism
-                Swati, #452, 7th Cross, 7th Main
-                BTM Layout 2nd Stage
-                Bangalore, Karnataka
-                560076
-            </div>
-            <div>
-                <i class="bi bi-geo-alt"></i>
-                <a href="https://maps.app.goo.gl/qnsMqWgEdfMpDTor9">Google Maps</a>
-            </div>
-        </div>
+    
         <div>
             <h4>Sambhavam Whitefield</h4>
             <div class="address">Orange International Preschool and Day care

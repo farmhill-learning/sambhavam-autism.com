@@ -2,7 +2,7 @@
 title: "Sambhavam Center for Autism"
 subtitle: "Give your child the best with the team that understands Autism the best."
 
-description-meta: "Autism center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. We also offer School readiness programs, remedial classes, social skills training, life skills training. Locations: BTM Layout and Whitefield, Bangalore. Experienced team, family focused approach."
+description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Location: Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
 
 image: images/preview.png
 
@@ -47,8 +47,6 @@ listing:
 
 * [Assessments and IEP](/services/#assessments-and-iep)
 * [one-to-one ABA Therapy](/services/#one-to-one-aba-therapy)
-* [Speech Therapy](/services/#speech-language-therapy)
-* [Occupational Therapy](/services/#occupational-therapy)
 
 :::
 ::: {.g-col-12 .g-col-md-4}
@@ -69,7 +67,7 @@ listing:
 :::
 :::
 
-## Our Locations
+## Our Location
 
 ::: {#locations}
 

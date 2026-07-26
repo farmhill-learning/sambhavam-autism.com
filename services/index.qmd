@@ -1,6 +1,6 @@
 ---
 title: "Services"
-description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Locations: BTM Layout and Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
+description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Location: Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
 page-layout: full
 ---
 
@@ -19,22 +19,6 @@ We offer two hours of Applied Behavior Analysis based therapy to every child, ev
 ![Therapy session in progress](services-1.jpg)
 
 Our time slots are 9.15 am to 11.15 am, 11.45 to 1.45 pm and 2.30pm to 4.30pm. Each family can choose a slot comfortable for them.
-
-### Speech Language Therapy
-
-A two way channel of communication is a very important need, especially for children on the spectrum. Since communication challenges are among the key features of autism, many children benefit from speech and language therapy. However, speech therapy is not just about speech or language but about holistic communication.
-
-At sambhavam, we offer speech therapy in 45 minutes sessions per day, at a frequency recommended by our therapists, based on the needs of the child. We also train non-verbal or minimally verbal children and their parents on the use of Assisted and Augmented Communication systems like PECS, AWAZ etc.
-
-### Occupational Therapy
-
-Occupational Therapy is among the top therapies recommended for autism. The general focus of OT is to improve the child’s ability to participate in activities of daily living, which may include things like dressing or brushing teeth.
-
-![An OT session](services-2.jpg)
-
-During OT sessions, the focus is on improving fluency in gross motor actions like climbing stairs, fine motor actions like using a pencil or a paint brush, daily living skills like tying shoelaces and social functioning goals like catching a ball.
-
-At sambhavam we offer 45 minute OT sessions, at a frequency recommended by our therapists.
 
 ## Academic Support
 
