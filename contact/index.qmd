@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Location: Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
+description-meta: "Autism and early intervention in Whitefield, Bangalore. One-to-one and small-group support in a preschool setting, plus classroom inclusion and family support. Inclusive Pre-school, School Readiness, neurodiversity, parent training and support, experienced therapist. Orange International Pre-school and Daycare."
 page-layout: full
 ---
 
@@ -59,20 +59,18 @@ You can also write your queries using the form below. Please choose the subject 
         </form>
     </div>
     
-        <div>
+        <div class="contact-address">
             <h4>Sambhavam Whitefield</h4>
             <div class="address">Orange International Preschool and Day care
-                563, 60 Feet Road
-                AECS Layout - C Block
-                Brookfields
-                Bangalore, Karnataka
-                560037
+                Site 485,
+                1st B Main Rd,
+                B Block, AECS Layout,
+                Kundalahalli, Bengaluru, Karnataka-37
             </div>
             <div>
                 <i class="bi bi-geo-alt"></i>
-                <a href="https://maps.app.goo.gl/dyuvdJzfZ2jMDXdq9">Google Maps</a>
+                <a href=https://maps.app.goo.gl/Pxz7GyR72g8HrMgW7>Google Maps</a>
             </div>
         </div>
     </div>
-</div>
 ```

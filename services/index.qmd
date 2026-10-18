@@ -1,66 +1,90 @@
 ---
 title: "Services"
-description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Location: Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
+description-meta: "Autism and early intervention in Whitefield, Bangalore. One-to-one and small-group support in a preschool setting, plus classroom inclusion and family support. Inclusive Pre-school, School Readiness, neurodiversity, parent training and support, experienced therapist. Orange International Pre-school and Daycare."
 page-layout: full
 ---
 
-Our services at sambhavam are currently focused on early intervention for children up to 8 years and academic support for primary school. We conduct parent training programs as well as periodic awareness and training workshops. In addition, we offer internships to undergraduate and graduate students seeking to learn more about autism and ABA.
+At Sambhavam, we support children’s communication, learning, independence and participation in everyday life. Through individual sessions, classroom inclusion, small-group learning and close collaboration with families, we work towards skills that make a meaningful difference in children’s lives. Our services are designed to support children with autism and other neurodevelopmental differences, as well as their families and communities.
+
 
 ## Early Intervention
 
-### Assessments and IEP
+### One-to-One Sessions
 
-When we start working with a child, we perform a comprehensive set of assessments to identify their strengths and developmental needs. These assessments include behavior assessments, cognitive assessments, communication assessments and motor assessments. Based on the current abilities of the child, we identify the next set of goals and the methods to work with them. This leads to the development of a detailed Individual Education Program (IEP). IEP then becomes basis of all our conversations about the child’s learning journey. Progress is tracked along the goals and IEP is updated periodically with new goals.
+Our one-to-one sessions build a bridge between what a child can do today and their next steps in learning and everyday life. We plan around each child’s strengths, interests and support needs, with goals across the following areas.
 
-### One to one ABA Therapy
+#### Communication
 
-We offer two hours of Applied Behavior Analysis based therapy to every child, every day from Monday to Friday. During ABA therapy sessions, we focus on various goals in language development, cognitive development, self help skills and motor skills. With young children, we specifically work on toilet training and eating habits. Each therapy sessions is one to one - there is a therapist dedicated to the child during this time.
+We support children to bridge the gap between what they want to communicate and how they are able to express it—helping them share their needs, choices, ideas and experiences.
 
-![Therapy session in progress](services-1.jpg)
+#### Classroom Learning
 
-Our time slots are 9.15 am to 11.15 am, 11.45 to 1.45 pm and 2.30pm to 4.30pm. Each family can choose a slot comfortable for them.
+We build on what children can already do independently and provide support for the next step in their learning. Our focus is on helping them access classroom activities and develop greater confidence and independence as learners.
 
-## Academic Support
+#### Emotional Regulation
 
-### Shadow Teachers
+We help children recognise and communicate distress, seek and accept support, and develop ways to feel more regulated. We also pay attention to the support they need from adults during difficult moments.
 
-Most schools these days require a shadow teacher to be with the child in the classroom to support the child during the day. We offer the services of well trained shadow teachers. In addition to providing support in school, children we work with come to our center periodically, along with their shadow teachers, so that we can continue to train them together and address any emerging challenges and requirements. We worj collaboratively with parents and the school to ensure the child gets the best learning experience. 
+#### Leisure and Play
 
-### Remedial Programs
+We help children discover activities they enjoy and build their ability to play or spend time independently, with support where needed. The aim is to create more opportunities for enjoyment, choice and self-directed activity.
 
-Remedial programs are offered to school going children, who may require specific support in academic, social and leisure skills. We offer remedial programs in the evenings, to suit the time tables of the children. Very often, we partner with the parents and the school so that the child can derive the maximum benefit. 
+#### Activities of Daily Living
 
-### Homeschooling Support
+We support children in developing skills for everyday routines and self-care. These are more than tasks to complete: they are opportunities for children to exercise choice, experience agency and become more independent in daily life.
 
-An increasing number of parents realise that the standardised, main stream schooling does not cater to the specific requirements of their child. Most of the parents who are willing to spend the time and energy needed to work with their own children, still feel unsupported and alone in their journeys. They feel they can benefit from the social support of like-minded families, as well as academic support from experienced educators and therapists. We provide such support through our Subodha project. 
+#### Motor Skills
 
-![Homeschool group session](services-3.jpg)
+We support children to use their bodies to move, play, explore and solve problems, building foundations for increasingly complex skills as they grow.
 
-## Trainings & Workshops
+#### Reading and Literacy
 
-### Parent Training
+Our reading programme supports children as they learn to read, become more independent readers and understand what they read. Once a child begins reading, we weave reading into their language goals, connecting literacy with communication and continued academic learning.
 
-For most parents, a diagnosis of autism comes as a shock. These days, autism is relatively well known but that is not to say it is well understood. Often, parents are bombarded with information from various experts, and expectations from various quarters. All of this points to genuine need - parents need help in making sense of autism, and how to deal with it in their own lives. At the minimum, they should be able to understand the inputs they get from various therapists and make sense of them. At best, they should be grow to be able to manage their child's support needs entirely by themselves. 
+#### Mathematics and Numeracy
 
-These are the goals of our parent training programs. We offer **an ongoing training program to any parent interested in working with and learning alongside their child**. You can talk to us any time to join this program. 
+Our mathematics programme begins with pre-number skills and building number sense. We help children move from concrete, hands-on learning towards understanding and applying more abstract mathematical concepts. The programme supports mathematical learning through the primary-school years.
 
-In addition, we offer periodic workshops and webinars. Please watch our blog or get in touch with us to know about the latest. 
 
-### Awareness Programs and Workshops
+### Small-Group Sessions
 
-Another issue faced by people who are living with autism is the public ignorance about autism and how it manifests in children. We all wish people around us understood autism better!
+Our small-group sessions support children who find it challenging to join group activities in the classroom or participate in play with peers.
 
-We take the wish forward and conduct awareness workshops and events, primarily aimed at reaching more and more people with information about autism. The most prominent of these is our **annual Autism Awareness Event**, which usually happens in the first week of April every year. 
+With guidance and opportunities to practise, children work on:
 
-![Autism Awareness 2024](services-4.jpg)
+* Sharing materials and taking turns.
+* Joining and playing with others.
+* Managing the disappointment of losing a game.
+* Listening to stories and participating in shared activities.
+* Communicating and enjoying time with peers.
 
-Additionally, we conduct awareness workshops and webinars on demand. Please get in touch with us if you want to organise an awareness workshop/event/webinar in your community - your apartment complex, workplace, or any other social group you are part of. 
+Our focus is on helping children develop the skills and confidence to participate in groups, with support that responds to their needs.
 
-### Internships
+### Classroom Inclusion Support
 
-In India, there are very few places that offer autism specific professional training. Mosst professionals who study psychology, social work or allied subjects are barely aware of autism and are completely out of touch with the reality of living with autism. This adds to the challenge of finding entusiastic, well trained therapists.
+Our classroom inclusion programme supports children to participate, learn and belong within an everyday classroom setting. Running from Nursery to UKG, the programme places a therapist within the classroom to support a small group of three to five children.
 
-Our internship programs are aimed at providing a structured, experiential learning experience to students and fresh graduates. We hope to show them the joys of working in this space, and the impact they can make. We offer internships without any charges to the interns and hope that the exposure they get disposes them positively towards continuing to work in the autism/neurodiverse space. 
+We work with the school curriculum, adapting activities, materials and support to make learning accessible to each child. We help children engage with classroom routines, shared materials, instructions and teachers, while continuing to receive the support they need.
+
+The programme supports development across language, thinking and learning, physical skills, social participation, everyday independence and emotional development.
+
+Classroom life is also about relationships and shared experiences. Children have opportunities to build friendships, sing, dance and play together, and participate in celebrations and presentations. Our goal is for children to become active members of their classroom community—not simply to be present in the room.
+
+![](orange-inclusion-support-levels.png)
+
+## Training & Support
+
+### Parent Support and Collaboration
+
+We work closely with parents to understand each child’s experiences across home, school and therapy.
+Our monthly parent meetings provide time to share classroom observations, review progress and hear how children are doing in other settings. Together, we explore whether skills developed during sessions are becoming useful in everyday life and plan ways to support their use across different situations.
+Parents’ observations, questions and priorities are an important part of this process. They help us develop a fuller understanding of the child and shape the next steps in our work.
+
+### Workshops and Trainings
+
+We consider ongoing learning an essential part of a therapist’s work.
+Our therapists participate in monthly training sessions that explore aspects of psychology, behaviour and learning relevant to the children we support. These sessions help us develop a shared understanding, strengthen everyday practice and revisit our approaches with fresh attention.
+Drawing on years of working with and learning from autistic children, we also conduct workshops for teachers, parents and special educators. These provide opportunities to share practical learning, explore questions together and strengthen the support available to autistic children in their classrooms, homes and communities.
 
 ::: {.page-cta}
 

@@ -1,19 +1,9 @@
 ---
-title: "Sambhavam Whitefield"
+title: "Location - Whitefield"
 page-layout: full
 title-block-banner: true
 
-description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Location: Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
-
-listing:
-  - id: management
-    template: ../_theme/people.ejs
-    contents: ../people/management/management.yml
-
-  - id: team-whitefield
-    template: ../_theme/people.ejs
-    contents: ../people/team/whitefield/team-whitefield.yml
-
+description-meta: "Autism and early intervention in Whitefield, Bangalore. One-to-one and small-group support in a preschool setting, plus classroom inclusion and family support. Inclusive Pre-school, School Readiness, neurodiversity, parent training and support, experienced therapist. Orange International Pre-school and Daycare."
 ---
 Sambhavam center is located in the premises of [Orange International Pre-school and Daycare](https://www.orangeschools.net/) in Whitefield. We work closely with the preschool to ensure an integrated schooling experience for neurodiverse children. 
 
@@ -48,16 +38,4 @@ Here is a sample of what parents are saying about us!
 </div>
 ```
 
-
-## Management team
-
-::: {#management}
-
-:::
-
-## Team Sambhavam Whitefield
-
-::: {#team-whitefield}
-
-:::
 

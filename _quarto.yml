@@ -16,14 +16,11 @@ website:
     background: light
     logo: /images/sambhavam-logo.png
     left:
-      - text: "Location"
-        menu:       
-          - location/whitefield.qmd
+      - location/whitefield.qmd
       - people/index.qmd
       - services/index.qmd
       - testimonials/index.qmd
       - blog/index.qmd
-      - gallery/index.qmd
       - contact/index.qmd
       - about/index.qmd
     tools:

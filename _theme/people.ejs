@@ -11,7 +11,9 @@
         <div class="g-col-12 g-col-md-8 g-col-lg-10">
             <div class="person-header text-center-sm">
                 <h4><%= item.name %></h4>
-                <div class="person-subtitle"><%= item.subtitle %></div>
+                <% if (item.subtitle) { %>
+                    <div class="person-subtitle"><%= item.subtitle %></div>
+                <% } %>
 
                 <% if (item.linkedin) { %>
                     <div class="linkedin-link">

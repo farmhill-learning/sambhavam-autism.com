@@ -1,9 +1,8 @@
 ---
-title: "Sambhavam Center for Autism"
-subtitle: "Give your child the best with the team that understands Autism the best."
+title: "Sambhavam Center for Child Development and Learning"
+subtitle: "Autism support · Early intervention · Inclusive education"
 
-description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Location: Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
-
+description-meta: "Autism and early intervention in Whitefield, Bangalore. One-to-one and small-group support in a preschool setting, plus classroom inclusion and family support. Inclusive Pre-school, School Readiness, neurodiversity, parent training and support, experienced therapist. Orange International Pre-school and Daycare."
 image: images/preview.png
 
 buttons:
@@ -39,30 +38,30 @@ listing:
 
 ::: {.container .home}
 
+::: {.early-intervention-feature}
+
+## Individualized support. Real preschool life.
+
+Our early-intervention center is colocated within a preschool, bringing together two valuable experiences. Children can receive focused, one-to-one therapeutic support while also taking part in the everyday play, routines and peer interactions of preschool. It’s a thoughtful blend of individualized care and opportunities to learn, connect and participate alongside other children.
+
+:::
+
 ## Our Services
 
 ::: {.grid .list-style-none .home-services}
-::: {.g-col-12 .g-col-md-4}
+::: {.g-col-12 .g-col-md-6}
 ### Early Intervention
 
-* [Assessments and IEP](/services/#assessments-and-iep)
-* [one-to-one ABA Therapy](/services/#one-to-one-aba-therapy)
+* [One-to-One Sessions](/services/#one-to-one-sessions)
+* [Small Group Sessions](/services/#small-group-sessions)
+* [Classroom Inclusion Support](/services/#classroom-inclusion-support)
 
 :::
-::: {.g-col-12 .g-col-md-4}
-### Academic Support
+::: {.g-col-12 .g-col-md-6}
+### Training and Support
 
-* [Shadow teachers](/services/#shadow-teachers)
-* [Remedial Programs](/services/#remedial-programs)
-* [Homeschooling Suppport](/services/#homeschooling-support)
-
-:::
-::: {.g-col-12 .g-col-md-4}
-### Trainings & Workshops
-
-* [Parent Training](/services/#parent-training)
-* [Awareness Programs](/services/#awareness-programs-and-workshops)
-* [Internships](/services/#internships)
+* [Parent Support and Collaboration](/services/#parent-support-and-collaboration)
+* [Workshops and Trainings](/services/#workshops-and-trainings)
 
 :::
 :::
@@ -88,7 +87,7 @@ listing:
 
 ::: {.page-cta}
 
-#### Need help with Autism?
+#### Need help for your child?
 
 Get in touch with us!
 
@@ -96,4 +95,3 @@ Get in touch with us!
 
 :::
 :::
-

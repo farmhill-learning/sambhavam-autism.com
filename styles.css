@@ -97,6 +97,38 @@ h4, h5 {
     text-align: center;
 }
 
+.home .early-intervention-feature {
+    margin: 0 0 3rem;
+    padding: clamp(1.5rem, 4vw, 3rem);
+    background: #eef7fc;
+    border: 1px solid #d3e8f5;
+    border-left: 6px solid #ffde00;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.home .early-intervention-feature h2 {
+    margin-top: 0;
+}
+
+.home .early-intervention-feature p {
+    max-width: 850px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
+
+#listing-locations > .grid > .g-col-md-6,
+#listing-locations > .grid > .g-col-md-6 > .grid > .g-col-md-4,
+#listing-locations > .grid > .g-col-md-6 > .grid > .g-col-md-8 {
+    grid-column: 1 / -1;
+}
+
+#listing-locations img {
+    width: 100%;
+    max-width: 480px;
+}
+
 
 .page-cta {
     padding: 20px;
@@ -131,6 +163,16 @@ h4, h5 {
 .contact h4 {
     margin-top: 0px;
     margin-bottom: 0px !important;
+}
+
+.contact .contact-address {
+    grid-column: 1 / -1;
+}
+
+@media (min-width: 768px) {
+    .contact .contact-address {
+        grid-column: span 6;
+    }
 }
 
 .testimonial {

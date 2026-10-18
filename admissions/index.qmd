@@ -1,33 +1,34 @@
 ---
 title: "Admissions"
-description-meta: "Autism therapy center providing parent guidance, 1 to 1 ABA therapy, speech and occupational therapy. Integrated school, school readiness programs, social skills, reemdial classes, life skills. Location: Brookfields, Whitefield, Bangalore. Experienced team, family focused approach."
+description-meta: "Autism and early intervention in Whitefield, Bangalore. One-to-one and small-group support in a preschool setting, plus classroom inclusion and family support. Inclusive Pre-school, School Readiness, neurodiversity, parent training and support, experienced therapist. Orange International Pre-school and Daycare."
 page-layout: full
 ---
 
-Sambhavam is focused mainly on early intervention, working with children upto 8 years of age. We think of ourselves as a community of parents and therapists interested in working with children on the spectrum and doing the best we can to improve their quality of life.
+Sambhavam focuses mainly on early intervention, supporting children up to 8 years of age and their families. Our center is located within Orange International Pre-school and Daycare in Whitefield, where individualized support can sit alongside the everyday routines, play and peer experiences of preschool.
 
-## We work with the whole family
+## Support shaped around your child
 
-At Sambhavam, our focus is on working with the family and not just provide fixed hours of therapy for the child.
+We get to know each child’s strengths, interests and support needs, then plan goals that are meaningful in daily life. Depending on the child and family’s needs, support may include [one-to-one sessions](/services/#one-to-one-sessions), [small-group sessions](/services/#small-group-sessions) and [classroom inclusion support](/services/#classroom-inclusion-support).
 
-As a community of parents and therapists, we understand the pressures felt by families with a child on the spectrum. We believe that parent awareness, and more importantly, parent traning are essential for the child to progress on the path of independence. When the therapies are augmented by the parents at home, the child gets the best help.
+Our work may focus on communication, learning, play, emotional regulation, motor skills and growing independence. The aim is to help each child participate, learn and build skills at a pace that responds to them—not to push every child through the same milestones.
 
-We believe that a child should get as much support as she needs, whether in therapy center or in school, for as long as she needs it. It is important that we invest time in building essential skills in a child, rather than try to push her through set levels of achievement. For long term effectiveness, it is important that the parents have a working relationship with the child, so they can continue to support the child.
+## A partnership with families
 
-## Admission process
+Parents are important partners in understanding a child’s experiences across home, preschool and therapy. We share observations, review progress and discuss next steps together. Regular parent meetings help connect what a child is practising at the center with the support they receive in everyday settings.
 
-Our admission process starts with a meeting between the therapy team and the parents. The objective is to understand what the parents are looking for, what the child needs and see if it aligns with what we provide. This may take a couple of hours.
+## How admissions work
 
-If the parents and the team feel they can work together to provide the necesssary support to the child, we make an offer of admission on email. The offer of admission is accepted by the parents by signing the necessary admission paperwork and paying a modest joining fee.
+Sambhavam is based within Orange International Pre-school and Daycare. Admissions decisions are made together by the preschool and Sambhavam, with the family involved in the conversation.
 
-On the appointed date, the child can start coming to the center. We take a couple of weeks to assess the child thoroughly and develop an IEP. Now the child is a part of the center and we continue to work together! 
+We meet with the family to learn about the child, their strengths and support needs, and what the family is looking for. Sambhavam contributes its perspective on the type and level of support that may help the child participate in the preschool setting. The preschool and Sambhavam then consider this information together when making an admission decision. Final admission is granted by the preschool.
 
+Once a child begins, Sambhavam works with the family and preschool to understand the child’s needs and plan appropriate support, including developing an Individual Education Program (IEP) where relevant.
 
 ::: {.page-cta}
 
-#### Need support for your child?
+#### Ready to talk about support for your child?
 
-Get in touch for expert help!
+Contact us to start a conversation about your child’s needs and our admissions process.
 
 <a href="/contact" class="btn btn-primary">Contact Us</a>
 
