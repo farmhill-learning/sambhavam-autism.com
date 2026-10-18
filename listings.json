@@ -4,12 +4,6 @@
     "items": []
   },
   {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/sample-album/index.html"
-    ]
-  },
-  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/diwali-2025/index.html",
@@ -29,11 +23,13 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": []
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/sample-album/index.html"
+    ]
   },
   {
-    "listing": "/location/whitefield.html",
+    "listing": "/index.html",
     "items": []
   }
 ]
