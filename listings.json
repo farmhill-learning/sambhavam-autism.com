@@ -4,10 +4,23 @@
     "items": []
   },
   {
+    "listing": "/gallery/index.html",
+    "items": [
+      "/gallery/sample-album/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/himagiri-meadows-autism-run/index.html",
+      "/blog/defence-of-autism-spectrum/index.html",
+      "/blog/parent-coaching/index.html",
+      "/blog/consistency/index.html",
       "/blog/diwali-2025/index.html",
       "/blog/on-routines/index.html",
+      "/blog/listening-communication-partner/index.html",
+      "/blog/reading-success/index.html",
+      "/blog/atypical-communication/index.html",
       "/blog/compliance-cooperation/index.html",
       "/blog/coregulation/index.html",
       "/blog/air-travel/index.html",
@@ -20,12 +33,6 @@
       "/blog/fostering-connection/index.html",
       "/blog/inclusion-good-hands/index.html",
       "/blog/clothing-sensitivity/index.html"
-    ]
-  },
-  {
-    "listing": "/gallery/index.html",
-    "items": [
-      "/gallery/sample-album/index.html"
     ]
   },
   {
