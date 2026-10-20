@@ -4,7 +4,7 @@ description-meta: "Autism and early intervention in Whitefield, Bangalore. One-t
 image: "compliance.jpg"
 author: "Chithra Seshadri"
 date: "2024-12-20"
-categories: [Therapy Goals]
+categories: [Understanding Therapy]
 ---
 Compliance to instruction is considered to be very important in ABA. The children are expected to listen to instruction and follow. If they do not, the adult/parent/facilitator is supposed to follow through. Sounds good, right? What can possibly go wrong with it?
 

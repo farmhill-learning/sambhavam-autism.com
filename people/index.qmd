@@ -14,6 +14,8 @@ listing:
     contents: ../people/team/whitefield/team-whitefield.yml
 
 ---
+Sambhavam brings together people with different experiences and perspectives, united by a commitment to thoughtful, consistent support. Our team learns through preparation, observation, discussion and reflection, with each person contributing to our shared understanding of the children we work with.
+
 ### Director
 
 ::: {#management}
